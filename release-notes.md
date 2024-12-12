@@ -36,3 +36,8 @@
 
 ## Version 0.2.0 Release Notes
 * First release in March 2023
+
+## Version 1.0.5-beta Release Notes - May 30, 2024
+* Improvments in installation
+* Updated Templates
+* Bug Fixes
